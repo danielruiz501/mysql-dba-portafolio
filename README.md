@@ -66,9 +66,7 @@ Incluye:
 ### **6️⃣ MySQL Workbench**
 Carpeta: `06-workbench/`  
 Incluye:
-- Modelo físico
-- Exportación del diagrama
-- Capturas de configuración
+- Creacion de diagrama EER
 
 ---
 
