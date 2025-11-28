@@ -1,4 +1,4 @@
-#0 Portafolio DBA MySQL Junior – Daniel Ruiz López
+# Portafolio DBA MySQL Junior – Daniel Ruiz López
 
 ¡Hola! 👋  
 Este es mi portafolio como **DBA MySQL Junior**, donde muestro mis prácticas, configuraciones, proyectos y ejercicios reales utilizando MySQL 8 y herramientas de administración.
