@@ -97,5 +97,5 @@ Seguir creciendo como **DBA MySQL Junior**, realizando proyectos, resolviendo pr
 
 ## 📬 Contacto
 **Daniel Ruiz López**  
-GitHub: *TU PERFIL*  
-Correo: *TU CORREO*
+GitHub: *danielruiz501 
+Correo: danielruizlopez889@gmail.com
